@@ -1,4 +1,4 @@
-Field injection 대신 Constructor Injection을 추천하는 이유
+Field injection 대신 Constructor Injection 을 추천하는 이유
 ----
 
 Field injection은 보기에 매우 깔끔하고 직관적이다. Constructor injection은 쓸데없는 코드가 늘어나는 걸로 보이고 조금 더 무례하게 말하면 좀 구닥다리로 보이기도 한다. 그런데 왜 이 방식을 추천하는걸까? 찾아본 결과 이유를 간추리면 대략 이러하다. 
